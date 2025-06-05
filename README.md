@@ -3,7 +3,7 @@
 A full-stack iOS application to track golf scores, player stats, and round history. Designed and deployed under an agile workflow, this project earned **3rd Place in the NJIT Capstone Showcase**.
 
 🏆 **Award:**  
-[![View Certificate](https://raw.githubusercontent.com/yourusername/your-repo-name/main/certificate-preview.png)](./certificate.ng)  
+[![View Certificate][https://github.com/ashkq/Golf-Scorecard-App/blob/main/certificate.png](./certificate.ng)  
 *Click the image to view the full PDF award certificate.*
 
 📽️ **Presentation Slides:**  
