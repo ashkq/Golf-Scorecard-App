@@ -12,5 +12,5 @@ A full-stack web application to track golf scores, player stats, and round histo
 ### Home Page  
 ![Golf Scorecard Homepage](homepage.PNG)
 
-### Full UI Preview  
+### UI Preview  
 ![Golf Scorecard UI Collage](ui-collage.PNG)
